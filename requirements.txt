@@ -1,0 +1,6 @@
+opencv-python
+numpy==1.*
+pandas
+tensorflow==2.15
+keras_ocr
+matplotlib
